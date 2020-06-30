@@ -13,8 +13,23 @@ public class RestApiTest {
 
 @Test
 	
-	public void RestapiHomepage()
+	public void RestapiHomepageamericanarchitect()
 	{
 		System.out.println("Restapihomepage");
 	}
+
+@Test
+
+public void RestapiHomepage1americanarchitect()
+{
+	System.out.println("Restapihomepage american architect");
+}
+
+@Test
+
+public void RestapiHomepage()
+{
+	System.out.println("Restapihomepage american architect");
+}
+
 }
