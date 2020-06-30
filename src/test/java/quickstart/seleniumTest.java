@@ -10,6 +10,8 @@ public class seleniumTest {
 	public void browserAutomation()
 	{
 		System.out.println("Seleniumautomation");
+		
+		System.out.println("Seleniumautomation american ");
 	}
 	
 	@Test
