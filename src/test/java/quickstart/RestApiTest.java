@@ -22,14 +22,18 @@ public class RestApiTest {
 
 public void RestapiHomepage1americanarchitect()
 {
+	System.out.println("Restapihomepage asian architect");
+	System.out.println("Restapihomepage amreican architect");
 	System.out.println("Restapihomepage american architect");
 }
+
+
 
 @Test
 
 public void RestapiHomepage()
 {
-	System.out.println("Restapihomepage american architect");
+	System.out.println("Restapihomepage asian architect");
 }
 
 }
